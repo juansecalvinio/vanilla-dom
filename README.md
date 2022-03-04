@@ -1,4 +1,4 @@
-# Snowpack Tailwind
+# Snowpack Tailwind CSS
 
 > ✨ Bootstrapped with Create Snowpack App (CSA).
 
